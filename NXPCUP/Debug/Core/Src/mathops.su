@@ -1,0 +1,10 @@
+../Core/Src/mathops.c:12:6:Integrate	16	static
+../Core/Src/mathops.c:17:6:Derivitive	16	static
+../Core/Src/mathops.c:25:6:PID_SetGain	24	static
+../Core/Src/mathops.c:31:6:PID_Reset	16	static
+../Core/Src/mathops.c:35:6:PID_UpdateSetpoint	16	static
+../Core/Src/mathops.c:38:9:PID_Compute	24	static
+../Core/Src/mathops.c:45:9:PID_Compute_ForceDampen	24	static
+../Core/Src/mathops.c:58:9:PID_Compute_Distance	24	static
+../Core/Src/mathops.c:70:6:RUNTIME_AVERAGE_Update	16	static
+../Core/Src/mathops.c:74:6:RUNTIME_AVERAGE_Reset	16	static

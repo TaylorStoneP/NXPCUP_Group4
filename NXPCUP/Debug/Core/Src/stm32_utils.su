@@ -1,0 +1,5 @@
+../Core/Src/stm32_utils.c:8:6:ScheduleTask	24	static
+../Core/Src/stm32_utils.c:23:6:ScheduleTaskStop	16	static
+../Core/Src/stm32_utils.c:27:6:TaskScheduleSoftClock	16	static
+../Core/Src/stm32_utils.c:49:6:TaskScheduleSoftClock_FlagSet	4	static
+../Core/Src/stm32_utils.c:53:9:clamp	24	static

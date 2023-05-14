@@ -1,0 +1,2 @@
+../Core/Src/control.c:16:6:SetSteer	16	static
+../Core/Src/control.c:19:6:SetSpeed	16	static
